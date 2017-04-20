@@ -20,3 +20,33 @@ C:\Users\Seth\Documents\Unity Games\D&DVR\Temp\bin\Debug\UnityEngine.Networking.
 C:\Users\Seth\Documents\Unity Games\D&DVR\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 C:\Users\Seth\Documents\Unity Games\D&DVR\obj\Debug\Assembly-CSharp.dll
 C:\Users\Seth\Documents\Unity Games\D&DVR\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Seth\Documents\GitHub\PcBuilder\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Seth\Documents\GitHub\PcBuilder\obj\Debug\Assembly-CSharp.dll
+C:\Users\Seth\Documents\GitHub\PcBuilder\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Seth\Documents\GitHub\PcBuilder\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Seth\Documents\GitHub\PcBuilder\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Seth\Documents\GitHub\PcBuilder\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Seth\Documents\GitHub\PcBuilder\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Seth\Documents\GitHub\PcBuilder\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Seth\Documents\GitHub\PcBuilder\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Seth\Documents\GitHub\PcBuilder\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Seth\Documents\GitHub\PcBuilder\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Seth\Documents\GitHub\PcBuilder\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Seth\Documents\GitHub\PcBuilder\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Seth\Documents\GitHub\PcBuilder\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Seth\Documents\GitHub\PcBuilder\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Seth\Documents\GitHub\PcBuilder\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Seth\Documents\GitHub\PcBuilder\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Seth\Documents\GitHub\PcBuilder\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Seth\Documents\GitHub\PcBuilder\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Seth\Documents\GitHub\PcBuilder\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Seth\Documents\GitHub\PcBuilder\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Seth\Documents\GitHub\PcBuilder\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Seth\Documents\GitHub\PcBuilder\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Seth\Documents\GitHub\PcBuilder\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Seth\Documents\GitHub\PcBuilder\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Seth\Documents\GitHub\PcBuilder\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Seth\Documents\GitHub\PcBuilder\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Seth\Documents\GitHub\PcBuilder\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Seth\Documents\GitHub\PcBuilder\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Seth\Documents\GitHub\PcBuilder\obj\Debug\Assembly-CSharp.pdb

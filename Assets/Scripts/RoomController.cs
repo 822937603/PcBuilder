@@ -65,10 +65,10 @@ public class RoomController : MonoBehaviour {
 	}
 
 	public void Placed () {
-		DoorController[] doors = GetComponentsInChildren<DoorController> ();
+		/*DoorController[] doors = GetComponentsInChildren<DoorController> ();
 		foreach (DoorController d in doors) {
 			d.Placed ();
-		}
+		}*/
 
 		if (!invalidPlacment) {
 			MakeValid ();
