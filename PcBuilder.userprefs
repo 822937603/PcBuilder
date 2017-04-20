@@ -1,8 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Timer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MouseClick.cs">
     <Files>
-      <File FileName="Assets\Scripts\Timer.cs" Line="50" Column="31" />
+      <File FileName="Assets\Scripts\MouseClick.cs" Line="19" Column="145" />
+      <File FileName="Assets\Scripts\RoomController.cs" Line="38" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
