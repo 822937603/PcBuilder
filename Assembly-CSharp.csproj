@@ -46,9 +46,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\BackButton.cs" />
      <Compile Include="Assets\ComputerComponents\Scripts\CameraLookAt.cs" />
      <Compile Include="Assets\ComputerComponents\Scripts\CatmallController.cs" />
      <Compile Include="Assets\ComputerComponents\Scripts\LinearInterpolation.cs" />
+     <Compile Include="Assets\ExitButton.cs" />
+     <Compile Include="Assets\InstructionsButton.cs" />
      <Compile Include="Assets\PlayerManager.cs" />
      <Compile Include="Assets\Scripts\Bullet.cs" />
      <Compile Include="Assets\Scripts\DoorController.cs" />
@@ -64,6 +67,7 @@
      <Compile Include="Assets\Scripts\RoomController.cs" />
      <Compile Include="Assets\Scripts\ShooterController.cs" />
      <Compile Include="Assets\Scripts\Star.cs" />
+     <Compile Include="Assets\StartButton.cs" />
      <None Include="Assets\Standard Assets\Fonts\OpenSans\License!.txt" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
  <Reference Include="UnityEngine.UI">
